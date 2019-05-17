@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">P05-Quiz</string>
+    <string name="oneway">One Way</string>
+    <string name="roundtrip">Round Trip</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
 </resources>
